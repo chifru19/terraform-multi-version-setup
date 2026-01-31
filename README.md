@@ -25,7 +25,8 @@ A professional environment for managing multiple Terraform versions on macOS usi
 ... (rest of your content)
 ## 🚀 Quick Start
 ...
-![Installation Success](images/setup_success.jpg)
-## 🛡️ Security
-...
-![Global Ignore Config](images/ignore_config.jpg)
+### Environment Verification
+![Terminal Success](Screenshot%202026-01-31%20at%2011.07.56.png)
+
+### Security Configuration
+![Git Security](Screenshot%202026-01-31%20at%2011.08.39.png)
