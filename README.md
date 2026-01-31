@@ -16,10 +16,16 @@ A professional environment for managing multiple Terraform versions on macOS usi
    ```bash
    chmod +x setup_terraform.sh
    ./setup_terraform.sh
-![Terraform Version](https://img.shields.io/badge/Terraform-1.6.0-blueviolet?logo=terraform)
+![Terraform Version](https://img.shields.io/badge/Terraform-1.6.0-blueviolet?logo=terraform) 
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?logo=apple)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 # Terraform Multi-Version Setup 🚀
 ... (rest of your content)
+## 🚀 Quick Start
+...
+![Installation Success](images/setup_success.jpg)
+## 🛡️ Security
+...
+![Global Ignore Config](images/ignore_config.jpg)
